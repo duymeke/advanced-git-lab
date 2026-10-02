@@ -24,6 +24,6 @@ jobs:
           pip install pytest
 
       - name: Run tests
-  	env:
-    	  PYTHONPATH: .
-	run: python -m pytest
+        env:
+          PYTHONPATH: .
+        run: python -m pytest
