@@ -1,2 +1,3 @@
 login_enabled = true
 authentication = secure
+session_timeout = 30
