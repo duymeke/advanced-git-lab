@@ -1,0 +1,4 @@
+login_enabled = false
+authentication = insecure
+session_timeout = 30
+logging = enabled
